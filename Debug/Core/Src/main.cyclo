@@ -1,0 +1,16 @@
+../Core/Src/main.c:33:5:main	2
+../Core/Src/main.c:58:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:78:6:handle_command	10
+../Core/Src/main.c:125:6:send_response	1
+../Core/Src/main.c:131:15:get_port_from_pin	2
+../Core/Src/main.c:142:6:set_pin_command	2
+../Core/Src/main.c:162:6:get_pin_command	2
+../Core/Src/main.c:183:6:toggle_pin_command	2
+../Core/Src/main.c:203:6:read_adc_command	1
+../Core/Src/main.c:224:6:get_info_command	1
+../Core/Src/main.c:230:6:start_timer_command	1
+../Core/Src/main.c:239:6:stop_timer_command	1
+../Core/Src/main.c:246:6:help_command	1
+../Core/Src/main.c:262:6:clear_command	1
+../Core/Src/main.c:272:6:SystemClock_Config	4
+../Core/Src/main.c:321:6:Error_Handler	1
